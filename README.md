@@ -13,3 +13,8 @@ You wouldn't repeat these _kata_ hundreds of times, as you might do with program
 - others (TBD)
 
 
+
+Custom kata:
+- CodeCompletionPractice
+- CodeCompletionPractice2
+- LongConditional

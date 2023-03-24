@@ -4,6 +4,17 @@ package com.neopragma.idekatas;
  * Java source file for practicing keyboard shortcuts and refactoring
  *
  */
+// Rename errorCount -> theNumber
+
+
+// hold (Ctrl)
+// (Right Arrow)
+// (Right Arrow)
+// (Right Arrow)
+// release (Ctrl)
+// (Shift + F6)
+// theNumber
+// (Enter)
 public class LongConditional
 {
     public String method1(String stringArg, int intArg, boolean booleanArg) {
@@ -75,3 +86,5 @@ public class LongConditional
         System.out.println(System.currentTimeMillis() + ": result: " + value);
     }
 }
+
+
